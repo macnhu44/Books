@@ -1,5 +1,5 @@
 let navbar = $(".navbar");
-let header_text = $(".text-center");
+let header_text = $(".header_text");
 
 $(window).scroll(function () {
   //   console.log($(".text-center").offset().top);

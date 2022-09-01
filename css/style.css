@@ -356,3 +356,18 @@ footer .column i {
   color: #dd2476;
   padding: 0 0.5em;
 }
+
+/* Navbar cố định */
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.815);
+  z-index: 3;
+  transition: all 2s ease;
+}
+
+.sticky_2 {
+  margin-top: 80px !important;
+}
